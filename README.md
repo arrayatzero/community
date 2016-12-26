@@ -4,4 +4,4 @@ Request products, report issues with the online store, share cool stuff with us,
 
 ### How to send us feedback and report bugs
 
-Just browse the issues list, add reactions to existing tickets or create new ones. If you are interesed in our products, chances are you already have a GitHub account, that's why we chose this channel for gathering your feedback. 
+If you are interesed in our products, chances are you already have a GitHub account. To send us your feedback, just browse the issues list, add reactions to existing tickets or create new ones. 
